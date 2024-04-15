@@ -1,4 +1,3 @@
 # climate-change-thingy
-Idea:
-Climate Simulation
--Simulate Carbon cycle
+Static Climate Simulator
+Mess with the code to generate new worlds
